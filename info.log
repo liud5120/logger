@@ -1,0 +1,4 @@
+[WARN ] 2016/09/24 18:10:47,824 [main] [com.bolu.logger.App.main(App.java:14)]: SLF4J-LOG4J测试WARN  
+[ERROR] 2016/09/24 18:10:47,828 [main] [com.bolu.logger.App.main(App.java:15)]: SLF4J-LOG4J测试ERROR  
+[WARN ] 2016/09/24 18:12:54,236 [main] [com.bolu.logger.App.main(App.java:14)]: SLF4J-LOG4J测试WARN  
+[ERROR] 2016/09/24 18:12:54,238 [main] [com.bolu.logger.App.main(App.java:15)]: SLF4J-LOG4J测试ERROR  
